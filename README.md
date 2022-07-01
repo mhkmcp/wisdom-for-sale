@@ -1,5 +1,5 @@
 # wisdom-for-sale
-##Algorand with reach to sale wisdom in blockchain
+## Algorand with reach to sale wisdom in blockchain
 
 ### `git clone https://github.com/mhkmcp/wisdom-for-sale.git` to download the code
 
